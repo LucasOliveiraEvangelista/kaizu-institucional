@@ -119,7 +119,7 @@ section {
   background-color: #0b3fa5;
 
   /* IMAGEM COMO BACKGROUND */
-  background-image: url("images/hero.png");
+  background-image: url("hero.png");
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: contain;
@@ -365,3 +365,4 @@ footer img {
     font-size: 34px;
   }
 }
+
